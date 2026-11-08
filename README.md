@@ -2,7 +2,25 @@
 
 Aplicação Full Stack para biblioteca pessoal e reprodução de arquivos MP3 locais.
 
-![Felpano Player](public/images/felpa_branco.png)
+## 📸 Demonstração visual
+
+### Biblioteca musical
+
+![Biblioteca musical](assets/tela-biblioteca.png)
+
+### Reprodutor de áudio
+
+![Reprodutor de áudio](assets/tela-reprodutor.png)
+
+### Interface mobile
+
+<p align="center">
+  <img src="assets/tela-mobile.png" alt="Felpano Player Mobile" width="300">
+</p>
+
+*Interfaces demonstrativas com dados fictícios.*
+
+
 
 **Tecnologias:** PHP 8.2+, Laravel 12, Vue.js 3, Inertia.js, Tailwind CSS e Vite.
 
